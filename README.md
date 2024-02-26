@@ -1,6 +1,6 @@
 # Jeu_2048
 
-Traverse is a board game for 1 player based on the game 2048, entirely developed in C.
+This project is a board game for 1 player based on the game 2048, entirely developed in C.
 
 ## Libraries needed to be added.
 
